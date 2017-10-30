@@ -1,4 +1,4 @@
-name: strongswan-ogra
+name: strongswan-ssnmode
 version: '0.1' # fallback version
 version-script: |
     wget -q -O- https://download.strongswan.org/| \
